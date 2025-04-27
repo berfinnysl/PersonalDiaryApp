@@ -1,0 +1,5069 @@
+{
+  "Version": 1,
+  "Hash": "Q0YpyWHk3m5sgGXnc7EbEUm0yxIkXr+T1SJrp6Eiwjs=",
+  "Source": "PersonalDiaryApp",
+  "BasePath": "_content/PersonalDiaryApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PersonalDiaryApp\\wwwroot",
+      "Source": "PersonalDiaryApp",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\05b9af17-e7b2-47cd-8299-e4d40c47f126.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/05b9af17-e7b2-47cd-8299-e4d40c47f126#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x52hcsauw5",
+      "Integrity": "NcF/5lQ+nWR04a8o0rIDDeAfBWg5CZWdxKN89Dzjhvc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\05b9af17-e7b2-47cd-8299-e4d40c47f126.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\0ab0e53f-297e-4f75-bc41-3cfd865e9a93.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/0ab0e53f-297e-4f75-bc41-3cfd865e9a93#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\0ab0e53f-297e-4f75-bc41-3cfd865e9a93.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\259dfbdc-5e8f-42ed-8d74-aa45babd5723.jpg",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/259dfbdc-5e8f-42ed-8d74-aa45babd5723#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8rplc7fkv5",
+      "Integrity": "pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\259dfbdc-5e8f-42ed-8d74-aa45babd5723.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\2c6aa2f9-bec7-4bc6-ab81-97a3b9ac93d3.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/2c6aa2f9-bec7-4bc6-ab81-97a3b9ac93d3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\2c6aa2f9-bec7-4bc6-ab81-97a3b9ac93d3.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\2ced31d8-4014-450c-b2fd-a864fb3a923d.jpg",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/2ced31d8-4014-450c-b2fd-a864fb3a923d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8rplc7fkv5",
+      "Integrity": "pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\2ced31d8-4014-450c-b2fd-a864fb3a923d.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\30fe8f61-fac6-47b0-b3e4-970a534060bb.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/30fe8f61-fac6-47b0-b3e4-970a534060bb#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\30fe8f61-fac6-47b0-b3e4-970a534060bb.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\32979008-7895-437a-98ce-677f15d4c7aa.jpg",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/32979008-7895-437a-98ce-677f15d4c7aa#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8rplc7fkv5",
+      "Integrity": "pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\32979008-7895-437a-98ce-677f15d4c7aa.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\362f1a11-1155-4f46-b994-cc3b82300117.jpg",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/362f1a11-1155-4f46-b994-cc3b82300117#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8rplc7fkv5",
+      "Integrity": "pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\362f1a11-1155-4f46-b994-cc3b82300117.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\3a71a862-d9d9-43ff-9938-bb939d08a881.jpg",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/3a71a862-d9d9-43ff-9938-bb939d08a881#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8rplc7fkv5",
+      "Integrity": "pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\3a71a862-d9d9-43ff-9938-bb939d08a881.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\3d06a303-490a-49b3-acfd-2858fe8897b6.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/3d06a303-490a-49b3-acfd-2858fe8897b6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\3d06a303-490a-49b3-acfd-2858fe8897b6.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\3fae29f0-7236-4dc0-9071-8fe2c8434944.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/3fae29f0-7236-4dc0-9071-8fe2c8434944#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\3fae29f0-7236-4dc0-9071-8fe2c8434944.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\48d0d92d-efaf-4b04-bafc-a49c281c0f68.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/48d0d92d-efaf-4b04-bafc-a49c281c0f68#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\48d0d92d-efaf-4b04-bafc-a49c281c0f68.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\4ab12120-7f37-4a5a-b678-d19f8582f725.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/4ab12120-7f37-4a5a-b678-d19f8582f725#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\4ab12120-7f37-4a5a-b678-d19f8582f725.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\4c1f03b1-e001-4e42-8515-602067e137c7.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/4c1f03b1-e001-4e42-8515-602067e137c7#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\4c1f03b1-e001-4e42-8515-602067e137c7.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\4e519aad-58a0-438f-a148-346bf95929b4.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/4e519aad-58a0-438f-a148-346bf95929b4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\4e519aad-58a0-438f-a148-346bf95929b4.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\55d499f0-2ae4-460c-9041-5cf2746e0017.jpg",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/55d499f0-2ae4-460c-9041-5cf2746e0017#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8rplc7fkv5",
+      "Integrity": "pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\55d499f0-2ae4-460c-9041-5cf2746e0017.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\568270c9-fc38-4776-af63-70249211dfc2.jpg",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/568270c9-fc38-4776-af63-70249211dfc2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8rplc7fkv5",
+      "Integrity": "pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\568270c9-fc38-4776-af63-70249211dfc2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\569a789a-b843-4f6b-9325-420b3e156e6b.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/569a789a-b843-4f6b-9325-420b3e156e6b#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\569a789a-b843-4f6b-9325-420b3e156e6b.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\60514024-4736-47bf-a86c-e8fca8c215cc.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/60514024-4736-47bf-a86c-e8fca8c215cc#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\60514024-4736-47bf-a86c-e8fca8c215cc.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\62f59176-bc50-429d-818d-72f6cfa15a15.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/62f59176-bc50-429d-818d-72f6cfa15a15#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\62f59176-bc50-429d-818d-72f6cfa15a15.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\69383d8d-60d7-48b5-9e53-d76952260f40.jpg",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/69383d8d-60d7-48b5-9e53-d76952260f40#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8rplc7fkv5",
+      "Integrity": "pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\69383d8d-60d7-48b5-9e53-d76952260f40.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\6c5bc0ad-b8d2-4756-afa1-23b875b50bf3.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/6c5bc0ad-b8d2-4756-afa1-23b875b50bf3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\6c5bc0ad-b8d2-4756-afa1-23b875b50bf3.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\708122cf-b84e-4868-a82e-34db765ad254.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/708122cf-b84e-4868-a82e-34db765ad254#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\708122cf-b84e-4868-a82e-34db765ad254.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\7142055d-7462-4709-9a80-cf6d4ade14b2.jpg",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/7142055d-7462-4709-9a80-cf6d4ade14b2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8rplc7fkv5",
+      "Integrity": "pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\7142055d-7462-4709-9a80-cf6d4ade14b2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\794e361c-3ff6-433f-8db4-830bce930fd6.jpg",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/794e361c-3ff6-433f-8db4-830bce930fd6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8rplc7fkv5",
+      "Integrity": "pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\794e361c-3ff6-433f-8db4-830bce930fd6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\7f068349-f7b7-44d7-9c1e-9f4202fa3315.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/7f068349-f7b7-44d7-9c1e-9f4202fa3315#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\7f068349-f7b7-44d7-9c1e-9f4202fa3315.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\8721b780-56ec-410d-84f3-332a31543536.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/8721b780-56ec-410d-84f3-332a31543536#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7cfk8nbh0h",
+      "Integrity": "pz68tmqE7R0jUmdqPh1vrcq07xDc65hvSRJ+pBDd5I8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\8721b780-56ec-410d-84f3-332a31543536.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\8b597c13-c17e-4d03-b749-2dedf26b8e9a.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/8b597c13-c17e-4d03-b749-2dedf26b8e9a#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\8b597c13-c17e-4d03-b749-2dedf26b8e9a.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\981e53ac-63f9-4b51-a970-07f49cfa7bf6.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/981e53ac-63f9-4b51-a970-07f49cfa7bf6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\981e53ac-63f9-4b51-a970-07f49cfa7bf6.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\9b1abb4b-29d6-4d58-bcad-43d630456584.jpg",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/9b1abb4b-29d6-4d58-bcad-43d630456584#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8rplc7fkv5",
+      "Integrity": "pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\9b1abb4b-29d6-4d58-bcad-43d630456584.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\9f0acead-6c79-4ecb-863b-a439587e3399.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/9f0acead-6c79-4ecb-863b-a439587e3399#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\9f0acead-6c79-4ecb-863b-a439587e3399.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\a2846b4e-3276-4354-961b-69db7b6c7a65.jpg",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/a2846b4e-3276-4354-961b-69db7b6c7a65#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8rplc7fkv5",
+      "Integrity": "pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\a2846b4e-3276-4354-961b-69db7b6c7a65.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\a6d9355e-c832-49d4-b7c0-15d002b868a9.jpg",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/a6d9355e-c832-49d4-b7c0-15d002b868a9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8rplc7fkv5",
+      "Integrity": "pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\a6d9355e-c832-49d4-b7c0-15d002b868a9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\ace32613-106d-44d8-90f8-04c2c481be80.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/ace32613-106d-44d8-90f8-04c2c481be80#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ace32613-106d-44d8-90f8-04c2c481be80.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\b3f4ba0a-38b4-439d-993d-f9b5eeba237f.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/b3f4ba0a-38b4-439d-993d-f9b5eeba237f#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\b3f4ba0a-38b4-439d-993d-f9b5eeba237f.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\bc7230ab-d409-4446-83c0-e2667fa191cc.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/bc7230ab-d409-4446-83c0-e2667fa191cc#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\bc7230ab-d409-4446-83c0-e2667fa191cc.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\be9a3f0b-2f9d-4101-b01d-f6fb2812f150.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/be9a3f0b-2f9d-4101-b01d-f6fb2812f150#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\be9a3f0b-2f9d-4101-b01d-f6fb2812f150.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\bec6b92d-b265-4bcb-aa27-e84bb035d198.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/bec6b92d-b265-4bcb-aa27-e84bb035d198#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\bec6b92d-b265-4bcb-aa27-e84bb035d198.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\c1370b88-438c-4651-9526-93011badcdbd.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/c1370b88-438c-4651-9526-93011badcdbd#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\c1370b88-438c-4651-9526-93011badcdbd.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\c57b84ce-374e-408e-87a7-a88fa06ff1d9.jpg",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/c57b84ce-374e-408e-87a7-a88fa06ff1d9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8rplc7fkv5",
+      "Integrity": "pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\c57b84ce-374e-408e-87a7-a88fa06ff1d9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\d030ae7c-3b00-4f6e-ae25-4a06426029f6.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/d030ae7c-3b00-4f6e-ae25-4a06426029f6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\d030ae7c-3b00-4f6e-ae25-4a06426029f6.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\d0906fe0-05b5-4d0d-b8d3-9449bdfabe0b.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/d0906fe0-05b5-4d0d-b8d3-9449bdfabe0b#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\d0906fe0-05b5-4d0d-b8d3-9449bdfabe0b.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\d61b6e5e-9906-40e9-9e1a-ac9f889d7763.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/d61b6e5e-9906-40e9-9e1a-ac9f889d7763#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\d61b6e5e-9906-40e9-9e1a-ac9f889d7763.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\d675ac4c-2108-4c0b-a514-0af10da9a85b.jpg",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/d675ac4c-2108-4c0b-a514-0af10da9a85b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8rplc7fkv5",
+      "Integrity": "pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\d675ac4c-2108-4c0b-a514-0af10da9a85b.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\db0a0be8-a0d8-4026-94ee-ffbd718d845f.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/db0a0be8-a0d8-4026-94ee-ffbd718d845f#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\db0a0be8-a0d8-4026-94ee-ffbd718d845f.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\df944029-a29b-4772-b3a6-7b33532372fa.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/df944029-a29b-4772-b3a6-7b33532372fa#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\df944029-a29b-4772-b3a6-7b33532372fa.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\f0396b9d-777f-4a93-b9e6-04b91a598748.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/f0396b9d-777f-4a93-b9e6-04b91a598748#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\f0396b9d-777f-4a93-b9e6-04b91a598748.png"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\f0b64c80-d319-4850-9788-ed71925bc5f8.jpg",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/f0b64c80-d319-4850-9788-ed71925bc5f8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8rplc7fkv5",
+      "Integrity": "pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\f0b64c80-d319-4850-9788-ed71925bc5f8.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\f467d5d7-f01f-41ed-b99a-bb19af1db3c1.png",
+      "SourceId": "PersonalDiaryApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\",
+      "BasePath": "_content/PersonalDiaryApp",
+      "RelativePath": "uploads/f467d5d7-f01f-41ed-b99a-bb19af1db3c1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ki5l8je367",
+      "Integrity": "LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\f467d5d7-f01f-41ed-b99a-bb19af1db3c1.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/05b9af17-e7b2-47cd-8299-e4d40c47f126.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\05b9af17-e7b2-47cd-8299-e4d40c47f126.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NcF/5lQ+nWR04a8o0rIDDeAfBWg5CZWdxKN89Dzjhvc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 15:47:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NcF/5lQ+nWR04a8o0rIDDeAfBWg5CZWdxKN89Dzjhvc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/05b9af17-e7b2-47cd-8299-e4d40c47f126.x52hcsauw5.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\05b9af17-e7b2-47cd-8299-e4d40c47f126.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NcF/5lQ+nWR04a8o0rIDDeAfBWg5CZWdxKN89Dzjhvc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 15:47:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x52hcsauw5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/05b9af17-e7b2-47cd-8299-e4d40c47f126.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NcF/5lQ+nWR04a8o0rIDDeAfBWg5CZWdxKN89Dzjhvc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/0ab0e53f-297e-4f75-bc41-3cfd865e9a93.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\0ab0e53f-297e-4f75-bc41-3cfd865e9a93.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:53:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/0ab0e53f-297e-4f75-bc41-3cfd865e9a93.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/0ab0e53f-297e-4f75-bc41-3cfd865e9a93.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\0ab0e53f-297e-4f75-bc41-3cfd865e9a93.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:53:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/259dfbdc-5e8f-42ed-8d74-aa45babd5723.8rplc7fkv5.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\259dfbdc-5e8f-42ed-8d74-aa45babd5723.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 16:15:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8rplc7fkv5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/259dfbdc-5e8f-42ed-8d74-aa45babd5723.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/259dfbdc-5e8f-42ed-8d74-aa45babd5723.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\259dfbdc-5e8f-42ed-8d74-aa45babd5723.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 16:15:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2c6aa2f9-bec7-4bc6-ab81-97a3b9ac93d3.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\2c6aa2f9-bec7-4bc6-ab81-97a3b9ac93d3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:10:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/2c6aa2f9-bec7-4bc6-ab81-97a3b9ac93d3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2c6aa2f9-bec7-4bc6-ab81-97a3b9ac93d3.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\2c6aa2f9-bec7-4bc6-ab81-97a3b9ac93d3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:10:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2ced31d8-4014-450c-b2fd-a864fb3a923d.8rplc7fkv5.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\2ced31d8-4014-450c-b2fd-a864fb3a923d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 18:37:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8rplc7fkv5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/2ced31d8-4014-450c-b2fd-a864fb3a923d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2ced31d8-4014-450c-b2fd-a864fb3a923d.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\2ced31d8-4014-450c-b2fd-a864fb3a923d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 18:37:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/30fe8f61-fac6-47b0-b3e4-970a534060bb.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\30fe8f61-fac6-47b0-b3e4-970a534060bb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:10:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/30fe8f61-fac6-47b0-b3e4-970a534060bb.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/30fe8f61-fac6-47b0-b3e4-970a534060bb.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\30fe8f61-fac6-47b0-b3e4-970a534060bb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:10:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/32979008-7895-437a-98ce-677f15d4c7aa.8rplc7fkv5.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\32979008-7895-437a-98ce-677f15d4c7aa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:33:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8rplc7fkv5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/32979008-7895-437a-98ce-677f15d4c7aa.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/32979008-7895-437a-98ce-677f15d4c7aa.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\32979008-7895-437a-98ce-677f15d4c7aa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:33:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/362f1a11-1155-4f46-b994-cc3b82300117.8rplc7fkv5.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\362f1a11-1155-4f46-b994-cc3b82300117.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 17:42:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8rplc7fkv5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/362f1a11-1155-4f46-b994-cc3b82300117.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/362f1a11-1155-4f46-b994-cc3b82300117.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\362f1a11-1155-4f46-b994-cc3b82300117.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 17:42:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/3a71a862-d9d9-43ff-9938-bb939d08a881.8rplc7fkv5.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\3a71a862-d9d9-43ff-9938-bb939d08a881.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:33:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8rplc7fkv5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/3a71a862-d9d9-43ff-9938-bb939d08a881.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/3a71a862-d9d9-43ff-9938-bb939d08a881.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\3a71a862-d9d9-43ff-9938-bb939d08a881.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:33:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/3d06a303-490a-49b3-acfd-2858fe8897b6.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\3d06a303-490a-49b3-acfd-2858fe8897b6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 18:37:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/3d06a303-490a-49b3-acfd-2858fe8897b6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/3d06a303-490a-49b3-acfd-2858fe8897b6.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\3d06a303-490a-49b3-acfd-2858fe8897b6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 18:37:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/3fae29f0-7236-4dc0-9071-8fe2c8434944.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\3fae29f0-7236-4dc0-9071-8fe2c8434944.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:10:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/3fae29f0-7236-4dc0-9071-8fe2c8434944.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/3fae29f0-7236-4dc0-9071-8fe2c8434944.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\3fae29f0-7236-4dc0-9071-8fe2c8434944.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:10:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/48d0d92d-efaf-4b04-bafc-a49c281c0f68.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\48d0d92d-efaf-4b04-bafc-a49c281c0f68.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:53:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/48d0d92d-efaf-4b04-bafc-a49c281c0f68.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/48d0d92d-efaf-4b04-bafc-a49c281c0f68.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\48d0d92d-efaf-4b04-bafc-a49c281c0f68.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:53:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4ab12120-7f37-4a5a-b678-d19f8582f725.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\4ab12120-7f37-4a5a-b678-d19f8582f725.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:53:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/4ab12120-7f37-4a5a-b678-d19f8582f725.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4ab12120-7f37-4a5a-b678-d19f8582f725.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\4ab12120-7f37-4a5a-b678-d19f8582f725.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:53:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4c1f03b1-e001-4e42-8515-602067e137c7.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\4c1f03b1-e001-4e42-8515-602067e137c7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 18:15:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/4c1f03b1-e001-4e42-8515-602067e137c7.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4c1f03b1-e001-4e42-8515-602067e137c7.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\4c1f03b1-e001-4e42-8515-602067e137c7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 18:15:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4e519aad-58a0-438f-a148-346bf95929b4.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\4e519aad-58a0-438f-a148-346bf95929b4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:53:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/4e519aad-58a0-438f-a148-346bf95929b4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4e519aad-58a0-438f-a148-346bf95929b4.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\4e519aad-58a0-438f-a148-346bf95929b4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:53:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/55d499f0-2ae4-460c-9041-5cf2746e0017.8rplc7fkv5.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\55d499f0-2ae4-460c-9041-5cf2746e0017.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 11:22:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8rplc7fkv5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/55d499f0-2ae4-460c-9041-5cf2746e0017.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/55d499f0-2ae4-460c-9041-5cf2746e0017.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\55d499f0-2ae4-460c-9041-5cf2746e0017.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 11:22:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/568270c9-fc38-4776-af63-70249211dfc2.8rplc7fkv5.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\568270c9-fc38-4776-af63-70249211dfc2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 17:48:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8rplc7fkv5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/568270c9-fc38-4776-af63-70249211dfc2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/568270c9-fc38-4776-af63-70249211dfc2.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\568270c9-fc38-4776-af63-70249211dfc2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 17:48:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/569a789a-b843-4f6b-9325-420b3e156e6b.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\569a789a-b843-4f6b-9325-420b3e156e6b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:10:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/569a789a-b843-4f6b-9325-420b3e156e6b.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/569a789a-b843-4f6b-9325-420b3e156e6b.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\569a789a-b843-4f6b-9325-420b3e156e6b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:10:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/60514024-4736-47bf-a86c-e8fca8c215cc.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\60514024-4736-47bf-a86c-e8fca8c215cc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:10:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/60514024-4736-47bf-a86c-e8fca8c215cc.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/60514024-4736-47bf-a86c-e8fca8c215cc.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\60514024-4736-47bf-a86c-e8fca8c215cc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:10:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/62f59176-bc50-429d-818d-72f6cfa15a15.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\62f59176-bc50-429d-818d-72f6cfa15a15.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 17:42:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/62f59176-bc50-429d-818d-72f6cfa15a15.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/62f59176-bc50-429d-818d-72f6cfa15a15.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\62f59176-bc50-429d-818d-72f6cfa15a15.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 17:42:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/69383d8d-60d7-48b5-9e53-d76952260f40.8rplc7fkv5.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\69383d8d-60d7-48b5-9e53-d76952260f40.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:33:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8rplc7fkv5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/69383d8d-60d7-48b5-9e53-d76952260f40.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/69383d8d-60d7-48b5-9e53-d76952260f40.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\69383d8d-60d7-48b5-9e53-d76952260f40.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:33:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6c5bc0ad-b8d2-4756-afa1-23b875b50bf3.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\6c5bc0ad-b8d2-4756-afa1-23b875b50bf3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:09:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/6c5bc0ad-b8d2-4756-afa1-23b875b50bf3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6c5bc0ad-b8d2-4756-afa1-23b875b50bf3.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\6c5bc0ad-b8d2-4756-afa1-23b875b50bf3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:09:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/708122cf-b84e-4868-a82e-34db765ad254.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\708122cf-b84e-4868-a82e-34db765ad254.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 16:17:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/708122cf-b84e-4868-a82e-34db765ad254.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/708122cf-b84e-4868-a82e-34db765ad254.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\708122cf-b84e-4868-a82e-34db765ad254.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 16:17:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/7142055d-7462-4709-9a80-cf6d4ade14b2.8rplc7fkv5.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\7142055d-7462-4709-9a80-cf6d4ade14b2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 18:44:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8rplc7fkv5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/7142055d-7462-4709-9a80-cf6d4ade14b2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/7142055d-7462-4709-9a80-cf6d4ade14b2.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\7142055d-7462-4709-9a80-cf6d4ade14b2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 18:44:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/794e361c-3ff6-433f-8db4-830bce930fd6.8rplc7fkv5.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\794e361c-3ff6-433f-8db4-830bce930fd6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 16:02:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8rplc7fkv5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/794e361c-3ff6-433f-8db4-830bce930fd6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/794e361c-3ff6-433f-8db4-830bce930fd6.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\794e361c-3ff6-433f-8db4-830bce930fd6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 16:02:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/7f068349-f7b7-44d7-9c1e-9f4202fa3315.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\7f068349-f7b7-44d7-9c1e-9f4202fa3315.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:10:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/7f068349-f7b7-44d7-9c1e-9f4202fa3315.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/7f068349-f7b7-44d7-9c1e-9f4202fa3315.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\7f068349-f7b7-44d7-9c1e-9f4202fa3315.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:10:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8721b780-56ec-410d-84f3-332a31543536.7cfk8nbh0h.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\8721b780-56ec-410d-84f3-332a31543536.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pz68tmqE7R0jUmdqPh1vrcq07xDc65hvSRJ+pBDd5I8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:43:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7cfk8nbh0h"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/8721b780-56ec-410d-84f3-332a31543536.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pz68tmqE7R0jUmdqPh1vrcq07xDc65hvSRJ+pBDd5I8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8721b780-56ec-410d-84f3-332a31543536.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\8721b780-56ec-410d-84f3-332a31543536.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pz68tmqE7R0jUmdqPh1vrcq07xDc65hvSRJ+pBDd5I8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:43:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pz68tmqE7R0jUmdqPh1vrcq07xDc65hvSRJ+pBDd5I8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8b597c13-c17e-4d03-b749-2dedf26b8e9a.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\8b597c13-c17e-4d03-b749-2dedf26b8e9a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:42:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/8b597c13-c17e-4d03-b749-2dedf26b8e9a.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8b597c13-c17e-4d03-b749-2dedf26b8e9a.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\8b597c13-c17e-4d03-b749-2dedf26b8e9a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:42:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/981e53ac-63f9-4b51-a970-07f49cfa7bf6.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\981e53ac-63f9-4b51-a970-07f49cfa7bf6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 17:44:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/981e53ac-63f9-4b51-a970-07f49cfa7bf6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/981e53ac-63f9-4b51-a970-07f49cfa7bf6.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\981e53ac-63f9-4b51-a970-07f49cfa7bf6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 17:44:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9b1abb4b-29d6-4d58-bcad-43d630456584.8rplc7fkv5.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\9b1abb4b-29d6-4d58-bcad-43d630456584.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:33:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8rplc7fkv5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/9b1abb4b-29d6-4d58-bcad-43d630456584.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9b1abb4b-29d6-4d58-bcad-43d630456584.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\9b1abb4b-29d6-4d58-bcad-43d630456584.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:33:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9f0acead-6c79-4ecb-863b-a439587e3399.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\9f0acead-6c79-4ecb-863b-a439587e3399.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:10:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/9f0acead-6c79-4ecb-863b-a439587e3399.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9f0acead-6c79-4ecb-863b-a439587e3399.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\9f0acead-6c79-4ecb-863b-a439587e3399.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:10:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a2846b4e-3276-4354-961b-69db7b6c7a65.8rplc7fkv5.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\a2846b4e-3276-4354-961b-69db7b6c7a65.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:33:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8rplc7fkv5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/a2846b4e-3276-4354-961b-69db7b6c7a65.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a2846b4e-3276-4354-961b-69db7b6c7a65.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\a2846b4e-3276-4354-961b-69db7b6c7a65.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:33:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a6d9355e-c832-49d4-b7c0-15d002b868a9.8rplc7fkv5.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\a6d9355e-c832-49d4-b7c0-15d002b868a9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 17:38:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8rplc7fkv5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/a6d9355e-c832-49d4-b7c0-15d002b868a9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a6d9355e-c832-49d4-b7c0-15d002b868a9.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\a6d9355e-c832-49d4-b7c0-15d002b868a9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 17:38:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ace32613-106d-44d8-90f8-04c2c481be80.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\ace32613-106d-44d8-90f8-04c2c481be80.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 20:41:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ace32613-106d-44d8-90f8-04c2c481be80.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ace32613-106d-44d8-90f8-04c2c481be80.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\ace32613-106d-44d8-90f8-04c2c481be80.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 20:41:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b3f4ba0a-38b4-439d-993d-f9b5eeba237f.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\b3f4ba0a-38b4-439d-993d-f9b5eeba237f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 19:49:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/b3f4ba0a-38b4-439d-993d-f9b5eeba237f.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b3f4ba0a-38b4-439d-993d-f9b5eeba237f.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\b3f4ba0a-38b4-439d-993d-f9b5eeba237f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 19:49:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/bc7230ab-d409-4446-83c0-e2667fa191cc.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\bc7230ab-d409-4446-83c0-e2667fa191cc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:10:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/bc7230ab-d409-4446-83c0-e2667fa191cc.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/bc7230ab-d409-4446-83c0-e2667fa191cc.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\bc7230ab-d409-4446-83c0-e2667fa191cc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:10:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/be9a3f0b-2f9d-4101-b01d-f6fb2812f150.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\be9a3f0b-2f9d-4101-b01d-f6fb2812f150.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 17:42:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/be9a3f0b-2f9d-4101-b01d-f6fb2812f150.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/be9a3f0b-2f9d-4101-b01d-f6fb2812f150.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\be9a3f0b-2f9d-4101-b01d-f6fb2812f150.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 17:42:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/bec6b92d-b265-4bcb-aa27-e84bb035d198.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\bec6b92d-b265-4bcb-aa27-e84bb035d198.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 17:44:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/bec6b92d-b265-4bcb-aa27-e84bb035d198.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/bec6b92d-b265-4bcb-aa27-e84bb035d198.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\bec6b92d-b265-4bcb-aa27-e84bb035d198.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 17:44:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c1370b88-438c-4651-9526-93011badcdbd.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\c1370b88-438c-4651-9526-93011badcdbd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 17:13:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/c1370b88-438c-4651-9526-93011badcdbd.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c1370b88-438c-4651-9526-93011badcdbd.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\c1370b88-438c-4651-9526-93011badcdbd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 17:13:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c57b84ce-374e-408e-87a7-a88fa06ff1d9.8rplc7fkv5.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\c57b84ce-374e-408e-87a7-a88fa06ff1d9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:33:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8rplc7fkv5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/c57b84ce-374e-408e-87a7-a88fa06ff1d9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c57b84ce-374e-408e-87a7-a88fa06ff1d9.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\c57b84ce-374e-408e-87a7-a88fa06ff1d9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:33:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d030ae7c-3b00-4f6e-ae25-4a06426029f6.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\d030ae7c-3b00-4f6e-ae25-4a06426029f6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 18:49:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/d030ae7c-3b00-4f6e-ae25-4a06426029f6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d030ae7c-3b00-4f6e-ae25-4a06426029f6.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\d030ae7c-3b00-4f6e-ae25-4a06426029f6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 18:49:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d0906fe0-05b5-4d0d-b8d3-9449bdfabe0b.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\d0906fe0-05b5-4d0d-b8d3-9449bdfabe0b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 19:24:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/d0906fe0-05b5-4d0d-b8d3-9449bdfabe0b.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d0906fe0-05b5-4d0d-b8d3-9449bdfabe0b.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\d0906fe0-05b5-4d0d-b8d3-9449bdfabe0b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 19:24:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d61b6e5e-9906-40e9-9e1a-ac9f889d7763.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\d61b6e5e-9906-40e9-9e1a-ac9f889d7763.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 17:44:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/d61b6e5e-9906-40e9-9e1a-ac9f889d7763.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d61b6e5e-9906-40e9-9e1a-ac9f889d7763.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\d61b6e5e-9906-40e9-9e1a-ac9f889d7763.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 17:44:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d675ac4c-2108-4c0b-a514-0af10da9a85b.8rplc7fkv5.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\d675ac4c-2108-4c0b-a514-0af10da9a85b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:33:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8rplc7fkv5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/d675ac4c-2108-4c0b-a514-0af10da9a85b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d675ac4c-2108-4c0b-a514-0af10da9a85b.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\d675ac4c-2108-4c0b-a514-0af10da9a85b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:33:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/db0a0be8-a0d8-4026-94ee-ffbd718d845f.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\db0a0be8-a0d8-4026-94ee-ffbd718d845f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 17:00:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/db0a0be8-a0d8-4026-94ee-ffbd718d845f.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/db0a0be8-a0d8-4026-94ee-ffbd718d845f.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\db0a0be8-a0d8-4026-94ee-ffbd718d845f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 17:00:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/df944029-a29b-4772-b3a6-7b33532372fa.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\df944029-a29b-4772-b3a6-7b33532372fa.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:53:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/df944029-a29b-4772-b3a6-7b33532372fa.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/df944029-a29b-4772-b3a6-7b33532372fa.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\df944029-a29b-4772-b3a6-7b33532372fa.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:53:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f0396b9d-777f-4a93-b9e6-04b91a598748.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\f0396b9d-777f-4a93-b9e6-04b91a598748.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:53:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/f0396b9d-777f-4a93-b9e6-04b91a598748.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f0396b9d-777f-4a93-b9e6-04b91a598748.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\f0396b9d-777f-4a93-b9e6-04b91a598748.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:53:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f0b64c80-d319-4850-9788-ed71925bc5f8.8rplc7fkv5.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\f0b64c80-d319-4850-9788-ed71925bc5f8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 17:48:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8rplc7fkv5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/f0b64c80-d319-4850-9788-ed71925bc5f8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f0b64c80-d319-4850-9788-ed71925bc5f8.jpg",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\f0b64c80-d319-4850-9788-ed71925bc5f8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19622"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 17:48:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3vmaJrDDIC78vSpuWNGVsjuvPmbkDMZqwPL4ZnX0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f467d5d7-f01f-41ed-b99a-bb19af1db3c1.ki5l8je367.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\f467d5d7-f01f-41ed-b99a-bb19af1db3c1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:10:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ki5l8je367"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/f467d5d7-f01f-41ed-b99a-bb19af1db3c1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f467d5d7-f01f-41ed-b99a-bb19af1db3c1.png",
+      "AssetFile": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\f467d5d7-f01f-41ed-b99a-bb19af1db3c1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Apr 2025 15:10:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LONFQOFIynJcaX7TnhPoB/cjWNQftuZsiSw0U2VvKrQ="
+        }
+      ]
+    }
+  ]
+}
