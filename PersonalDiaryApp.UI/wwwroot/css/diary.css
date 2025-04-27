@@ -1,0 +1,43 @@
+﻿body {
+    background-color: #fdf6e3;
+    font-family: 'Georgia', serif;
+}
+
+textarea.form-control {
+    min-height: 200px;
+    resize: vertical;
+    background-color: #fffaf3;
+    border: 1px solid #ccc;
+    padding: 15px;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    color: #5a4d3b;
+}
+
+button.btn-primary {
+    background-color: #6c4f3d;
+    border-color: #6c4f3d;
+}
+
+    button.btn-primary:hover {
+        background-color: #523b2d;
+        border-color: #523b2d;
+    }
+.diary-container {
+    max-width: 750px;
+    margin: 0 auto;
+    background-color: #fffdf8;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 0 12px rgba(0,0,0,0.1);
+    margin-top: 50px;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+    .diary-container h2 {
+        color: #333;
+        font-weight: bold;
+    }

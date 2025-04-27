@@ -1,0 +1,75 @@
+﻿@model PersonalDiaryApp.UI.Models.DiaryViewModel
+
+@{
+    ViewData["Title"] = "Günlük Detayı";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="d-flex justify-content-center mt-5">
+    <div class="card" style="width: 60rem; background: #fffcef;">
+        <div class="card-body p-5">
+
+            <!-- FOTOĞRAFLAR VE SİL BUTONU -->
+            @if (Model.PhotoUrls?.Any() == true)
+            {
+                <div class="mb-4">
+                    <h5 class="mb-3">📸 Fotoğraflar:</h5>
+                    <div class="row">
+                        @for (int i = 0; i < Model.PhotoUrls.Count; i++)
+                        {
+                            <div class="col-md-4 position-relative mb-4">
+                                <img src="@Model.PhotoUrls[i]"
+                                     class="img-fluid rounded shadow-sm border"
+                                     alt="Günlük Fotoğrafı" />
+
+                                <form asp-action="DeletePhoto"
+                                      method="post"
+                                      asp-route-photoId="@Model.PhotoIds[i]"
+                                      asp-route-diaryId="@Model.Id"
+                                      class="position-absolute top-0 end-0 m-2">
+                                    @Html.AntiForgeryToken()
+                                    <button type="submit"
+                                            class="btn btn-sm btn-danger"
+                                            title="Fotoğrafı Sil">
+                                        ✖
+                                    </button>
+                                </form>
+                            </div>
+                        }
+                    </div>
+                </div>
+            }
+
+            <!-- BAŞLIK VE TARİH -->
+            <h1 class="card-title display-5">@Model.Title</h1>
+            <p class="text-muted">
+                @Model.CreatedDate.ToString("dddd, dd MMMM yyyy HH:mm")
+            </p>
+            <hr />
+
+            <!-- GÜNLÜK İÇERİĞİ -->
+            <div class="card-body">
+                <h5 class="card-title">@Model.Title</h5>
+                <p class="text-muted">@Model.CreatedDate.ToString("dd.MM.yyyy HH:mm")</p>
+                <hr />
+                <div class="diary-content">
+                    @Html.Raw(Model.Content)
+                </div>
+                <hr />
+                <!-- … diğer butonlar … -->
+            </div>
+
+
+            <hr />
+            <div class="d-flex justify-content-between mt-4">
+                <a asp-action="Index" class="btn btn-outline-secondary">
+                    ← Günlüklere Geri Dön
+                </a>
+                <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">
+                    ✏ Günlüğü Düzenle
+                </a>
+            </div>
+
+        </div>
+    </div>
+</div>

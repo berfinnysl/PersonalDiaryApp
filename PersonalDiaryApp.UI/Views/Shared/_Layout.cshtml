@@ -1,0 +1,127 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    // Session'dan token ve email bilgisini okuyalım
+    var token = HttpContextAccessor.HttpContext?.Session.GetString("token");
+    var email = HttpContextAccessor.HttpContext?.Session.GetString("email");
+}
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Kişisel Günlük</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    @RenderSection("Styles", required: false)
+</head>
+<body class="d-flex">
+
+    <!-- Sol Menü -->
+    <div class="bg-light border-end p-3" style="width:200px; min-height:100vh;">
+        <h4 class="text-center">📓 Menü</h4>
+        <ul class="nav flex-column">
+            @if (string.IsNullOrEmpty(token))
+            {
+                <li class="nav-item mb-2">
+                    <a class="nav-link text-dark" asp-controller="Auth" asp-action="Login">🔑 Giriş Yap</a>
+                </li>
+                <li class="nav-item mb-4">
+                    <a class="nav-link text-dark" asp-controller="Auth" asp-action="Register">🆕 Kayıt Ol</a>
+                </li>
+            }
+            else
+            {
+                <li class="nav-item mb-2">
+                    <a class="nav-link text-dark" asp-controller="Home" asp-action="Index">📘 Günlüklerim</a>
+                </li>
+                <li class="nav-item mb-2">
+                    <a class="nav-link text-dark" asp-controller="Home" asp-action="Create">📝 Yeni Günlük</a>
+                </li>
+                <li class="nav-item mb-4">
+                    <a class="nav-link text-dark" asp-controller="Home" asp-action="Favorites">🌟 Favori Günlükler</a>
+                </li>
+            }
+        </ul>
+    </div>
+
+    <!-- Sağ Ana Bölüm -->
+    <div class="flex-grow-1 d-flex flex-column">
+
+        <!-- Üst Navbar -->
+        <nav class="navbar navbar-light bg-white border-bottom px-4">
+            <div class="container-fluid justify-content-end d-flex align-items-center">
+                @if (!string.IsNullOrEmpty(token))
+                {
+                    <div class="dropdown">
+                        <button class="btn btn-primary dropdown-toggle"
+                                type="button"
+                                id="userMenuBtn"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false">
+                            @email
+                        </button>
+                        <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="userMenuBtn">
+                            <li>
+                                <form asp-controller="Auth"
+                                      asp-action="DeleteAccount"
+                                      method="post"
+                                      onsubmit="return confirm('Hesabınızı silmek istediğinize emin misiniz?');">
+                                    @Html.AntiForgeryToken()
+                                    <button type="submit" class="dropdown-item text-danger">
+                                        🗑️ Hesabımı Sil
+                                    </button>
+                                </form>
+                            </li>
+                            <li>
+                                <form asp-controller="Auth"
+                                      asp-action="Logout"
+                                      method="post">
+                                    @Html.AntiForgeryToken()
+                                    <button type="submit" class="dropdown-item">
+                                        🚪 Çıkış Yap
+                                    </button>
+                                </form>
+                            </li>
+                        </ul>
+                    </div>
+                }
+            </div>
+        </nav>
+
+        <!-- Sayfa İçeriği -->
+        <div class="container-fluid p-4 flex-grow-1">
+            @RenderBody()
+        </div>
+
+    </div>
+
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    <script src="https://cdn.tiny.cloud/1/lwln2hz386dyzv9ixk9lzaa9qnefihpvjep7gur10itkbqeb/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+<script>
+    tinymce.init({
+      selector: '.rich-text-editor',
+      height: 400,
+      menubar: false,
+      plugins: [
+        'advlist autolink lists link charmap preview anchor',
+        'searchreplace visualblocks code fullscreen',
+        'insertdatetime media table help wordcount',
+        'textcolor'
+      ],
+      toolbar: [
+        'undo redo | formatselect | fontselect fontsizeselect | forecolor backcolor |',
+        'bold italic underline | alignleft aligncenter alignright alignjustify |',
+        'bullist numlist outdent indent | removeformat | help'
+      ],
+      content_style: `
+        body { font-family:Helvetica,Arial,sans-serif; font-size:14px }
+        p { margin:0; }
+      `
+    });
+</script>
+</body>
+</html>
