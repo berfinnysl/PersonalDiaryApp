@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "PLxaASdFGF8=",
+  "dgSpecHash": "mUBGmz6yYjs=",
   "success": true,
   "projectFilePath": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\PersonalDiaryApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Berfi\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Berfi\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\Berfi\\.nuget\\packages\\htmlagilitypack\\1.12.1\\htmlagilitypack.1.12.1.nupkg.sha512",
     "C:\\Users\\Berfi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Berfi\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.0\\microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",
     "C:\\Users\\Berfi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.0\\microsoft.aspnetcore.cryptography.internal.8.0.0.nupkg.sha512",

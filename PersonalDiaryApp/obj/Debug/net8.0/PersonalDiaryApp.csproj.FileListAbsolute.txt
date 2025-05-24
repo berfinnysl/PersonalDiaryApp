@@ -141,3 +141,5 @@ C:\Users\Berfi\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\net8.0\r
 C:\Users\Berfi\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\net8.0\PersonalDiaryApp.pdb
 C:\Users\Berfi\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\net8.0\PersonalDiaryApp.genruntimeconfig.cache
 C:\Users\Berfi\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\net8.0\ref\PersonalDiaryApp.dll
+C:\Users\Berfi\source\repos\PersonalDiaryApp\PersonalDiaryApp\obj\Debug\net8.0\PersonalDiaryApp.sourcelink.json
+C:\Users\Berfi\source\repos\PersonalDiaryApp\PersonalDiaryApp\bin\Debug\net8.0\HtmlAgilityPack.dll

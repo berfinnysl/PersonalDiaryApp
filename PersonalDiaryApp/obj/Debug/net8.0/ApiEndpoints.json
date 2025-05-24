@@ -58,6 +58,11 @@
         "Name": "pageSize",
         "Type": "System.Int32",
         "IsRequired": false
+      },
+      {
+        "Name": "plainText",
+        "Type": "System.Boolean",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
@@ -169,7 +174,13 @@
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "plainText",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": []
   },
   {
@@ -220,6 +231,11 @@
       {
         "Name": "keyword",
         "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "plainText",
+        "Type": "System.Boolean",
         "IsRequired": false
       }
     ],

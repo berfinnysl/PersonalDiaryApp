@@ -1,12 +1,28 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\05a475f6-477f-40e3-b0cc-9abd3cfad8af.jpg",
+      "PackagePath": "staticwebassets\\uploads\\05a475f6-477f-40e3-b0cc-9abd3cfad8af.jpg"
+    },
+    {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\05b9af17-e7b2-47cd-8299-e4d40c47f126.png",
       "PackagePath": "staticwebassets\\uploads\\05b9af17-e7b2-47cd-8299-e4d40c47f126.png"
     },
     {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\0ab0e53f-297e-4f75-bc41-3cfd865e9a93.png",
       "PackagePath": "staticwebassets\\uploads\\0ab0e53f-297e-4f75-bc41-3cfd865e9a93.png"
+    },
+    {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\130748be-7346-459e-bc38-f8d1e45c2377.png",
+      "PackagePath": "staticwebassets\\uploads\\130748be-7346-459e-bc38-f8d1e45c2377.png"
+    },
+    {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\1b0edfb2-5b3b-4729-8bd5-321a71e6c9b6.png",
+      "PackagePath": "staticwebassets\\uploads\\1b0edfb2-5b3b-4729-8bd5-321a71e6c9b6.png"
+    },
+    {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\227284fb-850c-4c7b-9a3c-47c5f68ec861.png",
+      "PackagePath": "staticwebassets\\uploads\\227284fb-850c-4c7b-9a3c-47c5f68ec861.png"
     },
     {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\259dfbdc-5e8f-42ed-8d74-aa45babd5723.jpg",
@@ -21,6 +37,14 @@
       "PackagePath": "staticwebassets\\uploads\\2ced31d8-4014-450c-b2fd-a864fb3a923d.jpg"
     },
     {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\2e11358c-e7cb-49c3-9cb2-7ea1e06dcef6.png",
+      "PackagePath": "staticwebassets\\uploads\\2e11358c-e7cb-49c3-9cb2-7ea1e06dcef6.png"
+    },
+    {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\2f5f7def-cfaa-4fd0-b919-2cb53ae02473.png",
+      "PackagePath": "staticwebassets\\uploads\\2f5f7def-cfaa-4fd0-b919-2cb53ae02473.png"
+    },
+    {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\30fe8f61-fac6-47b0-b3e4-970a534060bb.png",
       "PackagePath": "staticwebassets\\uploads\\30fe8f61-fac6-47b0-b3e4-970a534060bb.png"
     },
@@ -33,6 +57,10 @@
       "PackagePath": "staticwebassets\\uploads\\362f1a11-1155-4f46-b994-cc3b82300117.jpg"
     },
     {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\37fab0cb-922d-46f8-afe9-cbd8c084128d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\37fab0cb-922d-46f8-afe9-cbd8c084128d.jpg"
+    },
+    {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\3a71a862-d9d9-43ff-9938-bb939d08a881.jpg",
       "PackagePath": "staticwebassets\\uploads\\3a71a862-d9d9-43ff-9938-bb939d08a881.jpg"
     },
@@ -41,8 +69,16 @@
       "PackagePath": "staticwebassets\\uploads\\3d06a303-490a-49b3-acfd-2858fe8897b6.png"
     },
     {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\3f581416-ac11-47f9-a4cc-f3f68c1474b1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3f581416-ac11-47f9-a4cc-f3f68c1474b1.jpg"
+    },
+    {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\3fae29f0-7236-4dc0-9071-8fe2c8434944.png",
       "PackagePath": "staticwebassets\\uploads\\3fae29f0-7236-4dc0-9071-8fe2c8434944.png"
+    },
+    {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\424a769a-b578-41cb-b21f-1dcf3e1bb1fb.png",
+      "PackagePath": "staticwebassets\\uploads\\424a769a-b578-41cb-b21f-1dcf3e1bb1fb.png"
     },
     {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\48d0d92d-efaf-4b04-bafc-a49c281c0f68.png",
@@ -61,6 +97,22 @@
       "PackagePath": "staticwebassets\\uploads\\4e519aad-58a0-438f-a148-346bf95929b4.png"
     },
     {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\4f2a1234-0eaf-4f32-8495-80c79ee1a6bc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4f2a1234-0eaf-4f32-8495-80c79ee1a6bc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\4f785fdf-792c-4090-881a-b7622da52fc6.png",
+      "PackagePath": "staticwebassets\\uploads\\4f785fdf-792c-4090-881a-b7622da52fc6.png"
+    },
+    {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\54636317-4b00-4033-84db-3283d4d94984.png",
+      "PackagePath": "staticwebassets\\uploads\\54636317-4b00-4033-84db-3283d4d94984.png"
+    },
+    {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\550e38e3-ce28-4886-b2e1-f2030f6f9bc2.png",
+      "PackagePath": "staticwebassets\\uploads\\550e38e3-ce28-4886-b2e1-f2030f6f9bc2.png"
+    },
+    {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\55d499f0-2ae4-460c-9041-5cf2746e0017.jpg",
       "PackagePath": "staticwebassets\\uploads\\55d499f0-2ae4-460c-9041-5cf2746e0017.jpg"
     },
@@ -77,6 +129,14 @@
       "PackagePath": "staticwebassets\\uploads\\60514024-4736-47bf-a86c-e8fca8c215cc.png"
     },
     {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\62342670-ea36-44ee-9aec-b114da9827bf.jpg",
+      "PackagePath": "staticwebassets\\uploads\\62342670-ea36-44ee-9aec-b114da9827bf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\627a6e49-6f67-4ad6-a5a9-ad0712b18dbc.png",
+      "PackagePath": "staticwebassets\\uploads\\627a6e49-6f67-4ad6-a5a9-ad0712b18dbc.png"
+    },
+    {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\62f59176-bc50-429d-818d-72f6cfa15a15.png",
       "PackagePath": "staticwebassets\\uploads\\62f59176-bc50-429d-818d-72f6cfa15a15.png"
     },
@@ -87,6 +147,14 @@
     {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\6c5bc0ad-b8d2-4756-afa1-23b875b50bf3.png",
       "PackagePath": "staticwebassets\\uploads\\6c5bc0ad-b8d2-4756-afa1-23b875b50bf3.png"
+    },
+    {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\6d840a6b-e75e-4680-812f-5261fb932d16.png",
+      "PackagePath": "staticwebassets\\uploads\\6d840a6b-e75e-4680-812f-5261fb932d16.png"
+    },
+    {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\6f1287df-02b4-4449-9ea2-cb9941b33425.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6f1287df-02b4-4449-9ea2-cb9941b33425.jpg"
     },
     {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\708122cf-b84e-4868-a82e-34db765ad254.png",
@@ -105,12 +173,20 @@
       "PackagePath": "staticwebassets\\uploads\\7f068349-f7b7-44d7-9c1e-9f4202fa3315.png"
     },
     {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\840d06f8-26a2-4bd1-9e8d-18b08880140d.png",
+      "PackagePath": "staticwebassets\\uploads\\840d06f8-26a2-4bd1-9e8d-18b08880140d.png"
+    },
+    {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\8721b780-56ec-410d-84f3-332a31543536.png",
       "PackagePath": "staticwebassets\\uploads\\8721b780-56ec-410d-84f3-332a31543536.png"
     },
     {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\8b597c13-c17e-4d03-b749-2dedf26b8e9a.png",
       "PackagePath": "staticwebassets\\uploads\\8b597c13-c17e-4d03-b749-2dedf26b8e9a.png"
+    },
+    {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\8bd37239-29f1-47cd-961e-cd5ed921fd6c.png",
+      "PackagePath": "staticwebassets\\uploads\\8bd37239-29f1-47cd-961e-cd5ed921fd6c.png"
     },
     {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\981e53ac-63f9-4b51-a970-07f49cfa7bf6.png",
@@ -121,6 +197,10 @@
       "PackagePath": "staticwebassets\\uploads\\9b1abb4b-29d6-4d58-bcad-43d630456584.jpg"
     },
     {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\9c1ce1b9-4e8f-438a-9fd0-2b5f763faa1b.png",
+      "PackagePath": "staticwebassets\\uploads\\9c1ce1b9-4e8f-438a-9fd0-2b5f763faa1b.png"
+    },
+    {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\9f0acead-6c79-4ecb-863b-a439587e3399.png",
       "PackagePath": "staticwebassets\\uploads\\9f0acead-6c79-4ecb-863b-a439587e3399.png"
     },
@@ -129,12 +209,24 @@
       "PackagePath": "staticwebassets\\uploads\\a2846b4e-3276-4354-961b-69db7b6c7a65.jpg"
     },
     {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\a448e0a9-7fba-4976-8ffd-76e4b4e9638d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a448e0a9-7fba-4976-8ffd-76e4b4e9638d.jpg"
+    },
+    {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\a6d9355e-c832-49d4-b7c0-15d002b868a9.jpg",
       "PackagePath": "staticwebassets\\uploads\\a6d9355e-c832-49d4-b7c0-15d002b868a9.jpg"
     },
     {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\ace32613-106d-44d8-90f8-04c2c481be80.png",
       "PackagePath": "staticwebassets\\uploads\\ace32613-106d-44d8-90f8-04c2c481be80.png"
+    },
+    {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\ad71311b-f7d3-484d-ac1c-b4aa45010640.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ad71311b-f7d3-484d-ac1c-b4aa45010640.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\b0b37e09-60b2-4a66-b49a-81c6776de6e3.png",
+      "PackagePath": "staticwebassets\\uploads\\b0b37e09-60b2-4a66-b49a-81c6776de6e3.png"
     },
     {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\b3f4ba0a-38b4-439d-993d-f9b5eeba237f.png",
@@ -157,8 +249,28 @@
       "PackagePath": "staticwebassets\\uploads\\c1370b88-438c-4651-9526-93011badcdbd.png"
     },
     {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\c4e1ceed-b0ea-4b00-b94c-414bff550e23.png",
+      "PackagePath": "staticwebassets\\uploads\\c4e1ceed-b0ea-4b00-b94c-414bff550e23.png"
+    },
+    {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\c57b84ce-374e-408e-87a7-a88fa06ff1d9.jpg",
       "PackagePath": "staticwebassets\\uploads\\c57b84ce-374e-408e-87a7-a88fa06ff1d9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\c5aa7469-1590-4f2f-9ff6-5d1816f0c560.png",
+      "PackagePath": "staticwebassets\\uploads\\c5aa7469-1590-4f2f-9ff6-5d1816f0c560.png"
+    },
+    {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\c72d60be-0924-437f-a2e5-52d6b4c84f92.png",
+      "PackagePath": "staticwebassets\\uploads\\c72d60be-0924-437f-a2e5-52d6b4c84f92.png"
+    },
+    {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\c986206a-3262-41b0-97a3-af80c1b0e9c2.png",
+      "PackagePath": "staticwebassets\\uploads\\c986206a-3262-41b0-97a3-af80c1b0e9c2.png"
+    },
+    {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\d01a8d46-546c-481d-8b54-8ee092ab4641.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d01a8d46-546c-481d-8b54-8ee092ab4641.jpg"
     },
     {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\d030ae7c-3b00-4f6e-ae25-4a06426029f6.png",
@@ -169,12 +281,24 @@
       "PackagePath": "staticwebassets\\uploads\\d0906fe0-05b5-4d0d-b8d3-9449bdfabe0b.png"
     },
     {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\d53fb9d3-39d2-4207-8c32-e587789c45ae.png",
+      "PackagePath": "staticwebassets\\uploads\\d53fb9d3-39d2-4207-8c32-e587789c45ae.png"
+    },
+    {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\d61b6e5e-9906-40e9-9e1a-ac9f889d7763.png",
       "PackagePath": "staticwebassets\\uploads\\d61b6e5e-9906-40e9-9e1a-ac9f889d7763.png"
     },
     {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\d64c3351-868f-403a-baac-d681c460f806.png",
+      "PackagePath": "staticwebassets\\uploads\\d64c3351-868f-403a-baac-d681c460f806.png"
+    },
+    {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\d675ac4c-2108-4c0b-a514-0af10da9a85b.jpg",
       "PackagePath": "staticwebassets\\uploads\\d675ac4c-2108-4c0b-a514-0af10da9a85b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\d9dd39c1-e510-44e7-b448-804a20b1b48a.png",
+      "PackagePath": "staticwebassets\\uploads\\d9dd39c1-e510-44e7-b448-804a20b1b48a.png"
     },
     {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\db0a0be8-a0d8-4026-94ee-ffbd718d845f.png",
@@ -183,6 +307,14 @@
     {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\df944029-a29b-4772-b3a6-7b33532372fa.png",
       "PackagePath": "staticwebassets\\uploads\\df944029-a29b-4772-b3a6-7b33532372fa.png"
+    },
+    {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\e8cfccff-2eef-4cb7-a3ae-f8a0dd436fc9.png",
+      "PackagePath": "staticwebassets\\uploads\\e8cfccff-2eef-4cb7-a3ae-f8a0dd436fc9.png"
+    },
+    {
+      "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\eb9900f9-a77b-4e22-9d15-d62ba45e73df.png",
+      "PackagePath": "staticwebassets\\uploads\\eb9900f9-a77b-4e22-9d15-d62ba45e73df.png"
     },
     {
       "Id": "C:\\Users\\Berfi\\source\\repos\\PersonalDiaryApp\\PersonalDiaryApp\\wwwroot\\uploads\\f0396b9d-777f-4a93-b9e6-04b91a598748.png",

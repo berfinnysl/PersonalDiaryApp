@@ -103,6 +103,14 @@
               "format": "int32",
               "default": 5
             }
+          },
+          {
+            "name": "plainText",
+            "in": "query",
+            "schema": {
+              "type": "boolean",
+              "default": false
+            }
           }
         ],
         "responses": {
@@ -259,6 +267,14 @@
             "schema": {
               "type": "string"
             }
+          },
+          {
+            "name": "plainText",
+            "in": "query",
+            "schema": {
+              "type": "boolean",
+              "default": false
+            }
           }
         ],
         "responses": {
@@ -387,6 +403,16 @@
       "get": {
         "tags": [
           "Diary"
+        ],
+        "parameters": [
+          {
+            "name": "plainText",
+            "in": "query",
+            "schema": {
+              "type": "boolean",
+              "default": false
+            }
+          }
         ],
         "responses": {
           "200": {
